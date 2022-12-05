@@ -1,0 +1,1 @@
+python main.py --input='./INPUT' --output='./OUTPUT'
